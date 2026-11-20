@@ -2,7 +2,7 @@
 
 Materijali Bloka 2 (LLM, RAG, chatbot) i finalni projekat.
 
-## Finalni projekat: Uputnica
+## Finalni projekat: Siguran put
 
 Chatbot koji ženi objašnjava šta se dešava u njenom tijelu i šta joj u
 zdravstvenom sistemu FBiH pripada, oboje isključivo iz zvaničnih

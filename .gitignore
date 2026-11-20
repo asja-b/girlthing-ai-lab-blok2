@@ -1,4 +1,6 @@
 index.npz
+index_moje.npz
+*.npz
 .env
 __pycache__/
 .ipynb_checkpoints/
