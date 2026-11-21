@@ -4,3 +4,4 @@ index_moje.npz
 .env
 __pycache__/
 .ipynb_checkpoints/
+.venv/

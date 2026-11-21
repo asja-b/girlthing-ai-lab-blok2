@@ -1,0 +1,12 @@
+[
+  {"pitanje": "Koliko dana traje normalan menstrualni ciklus?", "ocekivano": "Predvidiv ciklus svakih 24 do 38 dana.", "izvor": "figo-krvarenje.pdf"},
+  {"pitanje": "Koliko dugo smije trajati menstrualno krvarenje?", "ocekivano": "Do 8 dana; duže od toga se smatra produženim.", "izvor": "figo-krvarenje.pdf"},
+  {"pitanje": "Koji su kriteriji za dijagnozu PCOS kod odrasle žene?", "ocekivano": "Neredovni ciklusi, znaci viška androgena i policistični izgled jajnika po smjernici iz 2023.", "izvor": "pcos-smjernica.pdf"},
+  {"pitanje": "Od koje godine se preporučuje skrining grlića materice?", "ocekivano": "Od 30. godine, u intervalu od 5 do 10 godina uz HPV test.", "izvor": "who-skrining-grlic.pdf"},
+  {"pitanje": "Koliko minuta fizičke aktivnosti sedmično preporučuje WHO odraslima?", "ocekivano": "150 do 300 minuta umjerenog ili 75 do 150 minuta intenzivnog.", "izvor": "who-fizicka-aktivnost.pdf"},
+  {"pitanje": "Ko je oslobođen plaćanja participacije?", "ocekivano": "Između ostalog trudnice, porodilje i žene koje koriste usluge prevencije karcinoma dojke i grlića materice.", "izvor": "maksimalno-ucesce.pdf"},
+  {"pitanje": "Imam li pravo na slobodan izbor doktora?", "ocekivano": "Da, pravo na izabranog doktora u primarnoj zdravstvenoj zaštiti.", "izvor": "zakon-zdravstvena-zastita.pdf"},
+  {"pitanje": "Pokriva li osnovni paket zdravstvenu zaštitu žena?", "ocekivano": "Da, uključujući ginekologiju i prevenciju karcinoma dojke i grlića materice.", "izvor": "osnovni-paket.pdf"},
+  {"pitanje": "Šta da jedem u lutealnoj fazi ciklusa?", "ocekivano": "NEMA_ODGOVORA", "izvor": ""},
+  {"pitanje": "Koliko košta pregled kod specijaliste?", "ocekivano": "NEMA_ODGOVORA", "izvor": ""}
+]
